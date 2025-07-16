@@ -1,0 +1,45 @@
+CIO Services 
+App Development
+App Development
+Developer Salaries
+Software Licenses
+Marketing
+IT Support
+
+Project: IT Support
+Revenue: 4000.0
+Expenses:
+Total Expenses: 0
+Net Profit: 4000.0
+----------------------------------------
+
+Project: CIO Fees
+Revenue: 6000.0
+Expenses:
+  CIO Fees: 2000.0
+Total Expenses: 2000.0
+Net Profit: 4000.0
+----------------------------------------
+
+Project: CTO Fees
+Revenue: 6000.0
+Expenses:
+Total Expenses: 0
+Net Profit: 6000.0
+----------------------------------------
+
+Project: CMIO Fess
+Revenue: 6000.0
+Expenses:
+Total Expenses: 0
+Net Profit: 6000.0
+----------------------------------------
+
+Project: CMIO Fees
+Revenue: 60000.0
+Expenses:
+  Guidance: 20000.0
+  Advice: 10000.0
+Total Expenses: 30000.0
+Net Profit: 30000.0
+----------------------------------------
