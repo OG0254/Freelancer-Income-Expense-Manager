@@ -43,3 +43,23 @@ Expenses:
 Total Expenses: 30000.0
 Net Profit: 30000.0
 ----------------------------------------
+sugar
+
+Project: brian
+Revenue: 10000.0
+Expenses:
+  otie: 200000.0
+
+Project: briiii
+Revenue: 1000000.0
+Expenses:
+  ittte: 2000.0
+Total Expenses:2000.0
+
+Project: were
+Revenue: 200000.0
+Expenses:
+  rew: 2000.0
+Total Expenses:2000.0
+Net Profit: 198000.0
+----------------------------------------

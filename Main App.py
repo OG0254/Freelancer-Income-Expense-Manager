@@ -62,13 +62,13 @@ while True:
 
         # Save to file
         with open(file_path, "a") as f:
-            f.write(f"\nProject: 🎯{project.name}\n")
-            f.write(f"Revenue: 💰{project.revenue}\n")
+            f.write(f"\nProject: {project.name}\n")
+            f.write(f"Revenue: {project.revenue}\n")
             f.write("Expenses:\n")
             for name, amount in project.expenses:
                 f.write(f"  {name}: {amount}\n")
-            f.write(f"Total Expenses: 💸{project.total_expenses()}\n")
-            f.write(f"Net Profit: 📈 {project.calculate_net_profit()}\n")
+            f.write(f"Total Expenses:{project.total_expenses()}\n")
+            f.write(f"Net Profit: {project.calculate_net_profit()}\n")
             f.write("-" * 40 + "\n")
             
     elif choice == "7":
